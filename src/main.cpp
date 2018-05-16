@@ -175,7 +175,7 @@ struct Config
                 + "Usage:\n"
                   "PaintPrint\n"
                   "      -i <image path>\n"
-                  "      -o <output gcode file root (without .g)>\n"
+                  "      -o <output gcode file root (without .gcode)>\n"
                   "      -ow <output image width in mm>\n"
                   "      -pa <print area x in mm> <print area y in mm>\n"
                   "   tool selection and configuration:\n"

@@ -34,7 +34,9 @@ The first two arguments are input and output, then the width in mm of the printe
 
 Here are the input and output previews of this command.
 
-`TODO`
+<img src="resources/dogs-2921382-640.jpg" title="Input image" alt="Input image" width="48%" /> <img src="resources/dogs-2921382-640.output.blended.jpg" title="Output image" alt="Output image image" width="48%" />
+
+<img src="resources/dogs-2921382-640.output.layer0.png" title="Layer 0" alt="Layer 0" width="24%" /> <img src="resources/dogs-2921382-640.output.layer1.png" title="Layer 1" alt="Layer 1" width="24%" /> <img src="resources/dogs-2921382-640.output.layer2.png" title="Layer 2" alt="Layer 2" width="24%" /> <img src="resources/dogs-2921382-640.output.layer3.png" title="Layer 3" alt="Layer 3" width="24%" /> 
 
 Here is a print of the generated gcode file.
 

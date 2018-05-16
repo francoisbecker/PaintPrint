@@ -1,4 +1,4 @@
-([Refill], this can be edited in the toolrefill.paintbrush.g file)
+([Refill], this can be edited in the toolrefill.paintbrush.gcode file)
 G0 X170 Y180 Z2.5
 G0 X170 Y200
 G0 Z0
